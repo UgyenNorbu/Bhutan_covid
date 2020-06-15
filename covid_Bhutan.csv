@@ -1,0 +1,60 @@
+date,age,gender,nationality,facility_ofadmission_orconsultation,had_recenttravel_historyabroad,status,notes
+2020-03-06,76,Male,USA,"JDWNRH, Thimphu",Yes,Recovered,"Traveled from Assam, India. Partner of Case No. 2; Flown to USA on March 13."
+2020-03-20,59,Female,USA,"JDWNRH, Thimphu",Yes,Recovered,"Travelling partner of Case No.1. Tested positive only 14+ days into quarantine, 19 days after entering Bhutan and 28 days after her first contact with case 1."
+2020-03-25,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,"Student returned from UK. Transferred from quarantine facility to JDWNRH on testing positive.On 27 April this individual was pronouced recovered after testing negative again following two weeks de-isolation in quarantine,"
+2020-03-29,NA,,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returning Bhutanese student. Transferred from quarantine facility to JDWNRH. Pronounced recovered on April 23.
+2020-04-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Student returned from USA. Transferred from quarantine facility to JDWNRH.Recovered 28 April.
+2020-04-21,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility to JDWNRH. Recovered 20 May.
+2020-04-22,24,Male,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility in Paro to JDWNRH.
+2020-05-10,NA,,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility in Paro to JDWNRH.
+2020-05-10,NA,,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility in Paro to JDWNRH.
+2020-05-11,25,Male,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility to JDWNRH.
+2020-05-11,27,Female,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility to JDWNRH.
+2020-05-13,33,Male,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility to JDWNRH.
+2020-05-13,32,Male,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility to JDWNRH.
+2020-05-13,23,Female,Bhutan,"JDWNRH, Thimphu",Yes,Recovered,Returned from Middle East. Transferred from quarantine facility to JDWNRH.
+2020-05-13,26,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Transferred from quarantine facility to JDWNRH.
+2020-05-14,31,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Transferred from quarantine facility in Thimphu to JDWNRH.
+2020-05-14,29,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Transferred from quarantine facility in Thimphu to JDWNRH.
+2020-05-14,24,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Transferred from quarantine facility in Thimphu to JDWNRH.
+2020-05-14,27,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Transferred from quarantine facility in Thimphu to JDWNRH.
+2020-05-14,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Doha. Transferred from quarantine facility to JDWNRH.
+2020-05-15,21,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Doha. Transferred from quarantine facility to JDWNRH.
+2020-05-22,30,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East 11 May. Transferred from quarantine facility to JDWNRH.
+2020-05-22,28,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East 11 May. Transferred from quarantine facility to JDWNRH.
+2020-05-22,NA,,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-24,23,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-24,29,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-24,29,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-27,24,Female,Bhutan,Phuntsholing COVID-19 Centre,Yes,Admitted,"Returned from New Delhi, India. Tested positive while in quarantine at Phuntsholing."
+2020-05-27,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,"Returned from Middle East May 24. Tested positive while in quarantine, transferred to JDWNRH."
+2020-05-27,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,"Returned from Middle East May 24. Tested positive while in quarantine, transferred to JDWNRH."
+2020-05-27,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,"Returned from Middle East May 24. Tested positive while in quarantine, transferred to JDWNRH."
+2020-05-28,28,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-28,24,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine.
+2020-05-30,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East on May 29. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East on May 29. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East on May 29. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East on May 29. Tested positive while in quarantine in Thimphu.
+2020-06-04,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-04,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Female,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
+2020-06-01,NA,Male,Bhutan,"JDWNRH, Thimphu",Yes,Admitted,Returned from Middle East. Tested positive while in quarantine in Thimphu.
