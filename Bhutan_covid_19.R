@@ -16,20 +16,27 @@ colnames(covid_Bhutan) <-c("Date", "total_cases", "new_case", "Admitted_iso", "A
 
 covid_Bhutan <- covid_Bhutan[-1, ]
 
+as.Date(covid_Bhutan$date, format("%B %d"))
+
+as.Date("March 6", format("%B %d"))
+
+covid_Bhutan %>% 
+    mutate(Date = as.Date(Date, format("%B %d")))
+
+
 covid_Bhutan <- covid_Bhutan %>% 
-    clean_names() %>% 
-    mutate(date = as.Date(date, format("%B %d"))) %>% 
+    mutate(Date = as.Date(Date, format("%B %d"))) %>% 
     mutate(total_cases =parse_number(total_cases)) %>% 
     mutate(new_case = parse_number(new_case)) %>% 
-    mutate(admitted_iso = parse_number(admitted_iso)) %>% 
-    mutate(admitted_di_iso = parse_number(admitted_di_iso)) %>% 
-    mutate(recvrd = parse_number(recvrd)) %>% 
-    mutate(deaths = parse_number(deaths)) %>% 
-    mutate(quar_in = parse_number(quar_in)) %>% 
-    mutate(quar_disch = parse_number(quar_disch)) %>% 
-    mutate(tested_tot = parse_number(tested_tot)) %>% 
-    mutate(tested_pcr = parse_number(tested_pcr)) %>% 
-    select(-ref)
+    mutate(Admitted_iso = parse_number(Admitted_iso)) %>% 
+    mutate(Admitted_di_iso = parse_number(Admitted_di_iso)) %>% 
+    mutate(Recvrd = parse_number(Recvrd)) %>% 
+    mutate(Deaths = parse_number(Deaths)) %>% 
+    mutate(Quar_in = parse_number(Quar_in)) %>% 
+    mutate(Quar_disch = parse_number(Quar_disch)) %>% 
+    mutate(Tested_tot = parse_number(Tested_tot)) %>% 
+    mutate(Tested_PCR = parse_number(Tested_PCR)) %>% 
+    select(-Ref)
     
 write_csv(covid_Bhutan, "output_data/covid_Bhutan.csv")
 
@@ -42,10 +49,10 @@ my_subtitle <- paste(paste("New case(s) =",
                      sep = "    ")
 
 covid_Bhutan %>% 
-    ggplot(aes(x = date)) +
+    ggplot(aes(x = Date)) +
     geom_line(aes(y = total_cases, color = "Total cases")) +
     geom_line(aes(y = new_case, color = "New case")) +
-    geom_line(aes(y = recvrd, color = "Recovered")) +
+    geom_line(aes(y = Recvrd, color = "Recovered")) +
     scale_x_date(date_breaks = "1 week", date_labels = "%d-%B") +
     labs(x = "Date",
          y = "Number of patients",
@@ -57,6 +64,6 @@ covid_Bhutan %>%
     theme(axis.text.x = element_text(angle = 15),
           plot.title = element_text(face = "bold", hjust = 0.5),
           plot.subtitle = element_text(hjust = 0.5),
-          legend.position = c(0.8, 0.9))
+          legend.position = "top")
 
 ggsave("output_viz/Covid_19_cases_in_Bhutan.jpg", width = 25, height = 15, units = "cm")
